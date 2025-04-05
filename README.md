@@ -16,4 +16,4 @@ Merhaba! Ben **Ege Özten**. Bu repo, yazılım geliştirme yeteneklerimi, proje
 - **Framer Motion** – Yumuşak animasyon geçişleri
 - **GitHub Pages** – Ücretsiz barındırma (Deployment)
 
-egeozten.com.tr
+[egeozten.com.tr](https://www.egeozten.com.tr)
